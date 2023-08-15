@@ -112,3 +112,11 @@ main{
     background: #FFF8F3;
     margin-top: 130px;
 }
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
